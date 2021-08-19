@@ -7,7 +7,8 @@ namespace CodeProblems
     {
         public static void Main(string[] args)
         {
-            MergeSort.Start();
+            //MergeSort.Start();
+            MaxEvents.Start();
         }
     }
 }
