@@ -16,6 +16,7 @@ namespace CodeProblems
         public static void Main(string[] args)
         {
             LinqProblem1.Start();
+            LinqProblem2.Start();
         }
     }
 }
